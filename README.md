@@ -7,7 +7,6 @@
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/RehamMohamed512/RehamMohamed512/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
