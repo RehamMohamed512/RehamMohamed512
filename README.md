@@ -127,23 +127,6 @@ Misr Insurance Company
 
 ## ⭐ Featured Projects
 
-### 📝 Smart Task Manager
-
-Technologies:
-ASP.NET Core, Entity Framework Core, SQL Server, Web API
-
-✔ CRUD Operations
-
-✔ Authentication & Authorization
-
-✔ RESTful APIs
-
-✔ Responsive Design
-
-✔ Database Optimization
-
----
-
 ### ✈️ ExploreVia – Travel & Hotel Booking Platform
 
 Technologies:
@@ -160,6 +143,23 @@ ASP.NET Core MVC, SQL Server, ML.NET, Entity Framework Core
 ✔ Authentication & Authorization
 
 ✔ RESTful APIs
+
+---
+
+### 📝 Smart Task Manager
+
+Technologies:
+ASP.NET Core, Entity Framework Core, SQL Server, Web API
+
+✔ CRUD Operations
+
+✔ Authentication & Authorization
+
+✔ RESTful APIs
+
+✔ Responsive Design
+
+✔ Database Optimization
 
 ---
 
